@@ -1,12 +1,12 @@
 # 뉴스 빅데이터를 통한 부동산 흐름 읽기
 
-DataScienceLab : 김승규, 김정환, 안지민, 이청파
+> 부동산 관련 뉴스 빅데이터 분석 결과를 알기 쉽게 제공해 정보의 비대칭을 완화하여 부동산 실수요자의 문턱을 낮추는 모바일 플랫폼 구축.
+
+DataScienceLab - 뉴동산 : [김승규](https://github.com/SemPer-16), [김정환](https://github.com/jailies), [안지민](https://github.com/JiminAhn), [이청파](https://github.com/leechungpa)
 
 <p align="center">
  <img src="/docs/flowchart.png"  width="50%" height="50%">
 </p>
-
-> 부동산 관련 뉴스 빅데이터 분석 결과를 알기 쉽게 제공해 정보의 비대칭을 완화하여 부동산 실수요자의 문턱을 낮추는 모바일 플랫폼 구축.
 
 ## 목적
 
