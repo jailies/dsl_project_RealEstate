@@ -2,6 +2,7 @@
 
 DataScienceLab project by 김승규, 김정환, 안지민, 이청파
 
+![flow chart](./docs/flowchart.png)
 
 > 부동산 관련 뉴스 빅데이터 분석 결과를 알기 쉽게 제공해 정보의 비대칭을 완화하여 부동산 실수요자의 문턱을 낮추는 모바일 플랫폼 구축.
 
